@@ -2,8 +2,6 @@
 
 Project Duration: Sep 2025 – Oct 2025
 
-Team Project: 3 members
-
 A cross-platform mobile encryption showcase featuring two standalone apps:
 
 1. **Android AES Encryption Demo** – password-based symmetric encryption  
