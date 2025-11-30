@@ -34,7 +34,7 @@ The app provides an intuitive UI to demonstrate how raw text is transformed into
 - Secure random IV generation
 - Graceful error handling for invalid credentials
 
-<img width="463" height="681" alt="image" src="https://github.com/user-attachments/assets/73879f7a-d039-4997-a629-c000207b534a" />
+<img height="500" alt="image" src="https://github.com/user-attachments/assets/73879f7a-d039-4997-a629-c000207b534a" />
 
 
 ## 2. iOS App — Public-Key Encryption with Secure Enclave
@@ -63,7 +63,7 @@ This demonstrates hardware-backed key protection and modern cryptographic practi
 - Secure Enclave attributes for private key storage
 - Error-resistant decryption flow
 - UIKit-based clean interface layout
-<img width="504" height="1065" alt="image" src="https://github.com/user-attachments/assets/4edf0ab7-d4d3-42d7-94c3-6d5e0f11f755" />
+<img height="500" alt="image" src="https://github.com/user-attachments/assets/4edf0ab7-d4d3-42d7-94c3-6d5e0f11f755" />
 
 
 ## 3. Technologies Used
